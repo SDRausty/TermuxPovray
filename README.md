@@ -1,3 +1,1 @@
-# TermuxPovray
-TermuxPovray
-https://sdrausty.github.io/TermuxPovray/
+Readme for https://sdrausty.github.io/TermuxPovray/
