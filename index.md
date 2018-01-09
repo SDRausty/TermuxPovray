@@ -8,5 +8,5 @@ Hopefully you find Arch Linux in Termux PRoot and [Termux](https://termux.com) o
 
 ![scifi_demo](https://user-images.githubusercontent.com/27742457/31354926-371c5e52-ad06-11e7-8dc6-543bc417e5ba.jpg)
 
-Created on device in Termux from [https://github.com/termux/termux-packages/issues/202](https://github.com/termux/termux-packages/issues/202) Package request: povray.  
+Created on device in Termux from [https://github.com/termux/termux-packages/issues/202](https://github.com/termux/termux-packages/issues/202) Package request: povray.  The files are amazing and large.  
                
