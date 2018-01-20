@@ -4,9 +4,9 @@
 
 Hopefully you find [Arch Linux](https://sdrausty.github.io/TermuxArch/) in [Termux PRoot](https://github.com/termux/proot) and [Termux](https://termux.com) on device insiping.  This is a new website regarding Arch Linux in Termux PRoot and is being built around [https://github.com/termux/termux-packages/issues/202](https://github.com/termux/termux-packages/issues/202) Package Request: Povray.  More information at [https://sdrausty.github.io/docsTermuxPovray/](https://sdrausty.github.io/docsTermuxPovray/).  The files are amazing. 
 
-![scifi_demo](https://user-images.githubusercontent.com/27742457/31354926-371c5e52-ad06-11e7-8dc6-543bc417e5ba.jpg)
+![scifi_demo512](https://sdrausty.github.io/filesTermuxPovray/scifi_demo/scifi_demo512.png) 
 
-![pebbles](https://sdrausty.github.io/filesTermuxPovray/pebbles/pebbles512.png)
+![pebbles512](https://sdrausty.github.io/filesTermuxPovray/pebbles/pebbles512.png)
 
 Created on device in Termux from [https://github.com/termux/termux-packages/issues/202](https://github.com/termux/termux-packages/issues/202) Package request: povray. 
 
