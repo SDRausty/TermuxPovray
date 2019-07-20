@@ -51,3 +51,6 @@ More renderings that use POV-Ray:
 28. http://www.ignorancia.org/index.php/technical/lightsys/
 29. https://www.deviantart.com/deimonms/gallery/34186617/POV-Ray
 30. https://www.deviantart.com/pov-ray/gallery/24885586/WIP?
+31. http://www.f-lohmueller.de/pov_tut/animate/pov_anie.htm
+32. https://www.tumblr.com/search/POV-Ray
+33. https://www.chegg.com/homework-help/questions-and-answers/desgin-dark-night-sky-full-moon-pov-ray-q25257117
