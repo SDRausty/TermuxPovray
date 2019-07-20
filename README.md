@@ -57,3 +57,5 @@ Renderings that use POV-Ray:
 34. https://zh.m.wikipedia.org
 35. https://stackoverflow.com/questions/20043209/pov-ray-setting-output-resolution-or-width-heigh-ratio-within-the-script
 36. https://www.coroflot.com/moon47usaco/POV-Ray-Droid
+37. https://www.ms.uky.edu/~Lee/visual05/povray/povray.html
+38. https://commons.m.wikimedia.org/wiki/File:Moon_rotating_full_VEx5.ogv
