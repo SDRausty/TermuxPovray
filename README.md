@@ -29,3 +29,4 @@ See more renderings that use POV-Ray:
 6. https://space.stackexchange.com/questions/19936/who-does-these-mesmerizing-simulations-of-the-phases-of-the-moon-and-how
 7. https://opensource.com/life/16/2/povray
 8. https://bjj.mmedia.is/povstuff/spacecraft/
+9. http://www.f-lohmueller.de/pov_tut/all_shapes/shapes170e.htm
