@@ -24,3 +24,4 @@ More example renderings:
 http://www.beugungsbild.de/huygens/povray/titan_rendered.html
 http://f-lohmueller.de/pov_tut/animate/anim112e.htm
 http://sweiller.free.fr/MoonColor3D/POV-RAy3D.htm
+http://isometricland.net/povray/povray.php
