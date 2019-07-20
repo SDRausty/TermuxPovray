@@ -21,10 +21,10 @@ Created on device in Termux regarding [Package Request: Povray](https://github.c
 [8192](8192)
 
 More example renderings:
-http://www.beugungsbild.de/huygens/povray/titan_rendered.html
-http://f-lohmueller.de/pov_tut/animate/anim112e.htm
-http://sweiller.free.fr/MoonColor3D/POV-RAy3D.htm
-http://isometricland.net/povray/povray.php
-http://www.f-lohmueller.de/pov_tut/tex/tex_000e.htm
-https://space.stackexchange.com/questions/19936/who-does-these-mesmerizing-simulations-of-the-phases-of-the-moon-and-how
-https://opensource.com/life/16/2/povray
+1. http://www.beugungsbild.de/huygens/povray/titan_rendered.html
+2. http://f-lohmueller.de/pov_tut/animate/anim112e.htm
+3. http://sweiller.free.fr/MoonColor3D/POV-RAy3D.htm
+4. http://isometricland.net/povray/povray.php
+5. http://www.f-lohmueller.de/pov_tut/tex/tex_000e.htm
+6. https://space.stackexchange.com/questions/19936/who-does-these-mesmerizing-simulations-of-the-phases-of-the-moon-and-how
+7. https://opensource.com/life/16/2/povray
