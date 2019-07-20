@@ -20,7 +20,7 @@ Created on device in Termux regarding [Package Request: Povray](https://github.c
 
 [8192](8192)
 
-See more renderings that use POV-Ray:
+More renderings that use POV-Ray:
 1. http://www.beugungsbild.de/huygens/povray/titan_rendered.html
 2. http://f-lohmueller.de/pov_tut/animate/anim112e.htm
 3. http://sweiller.free.fr/MoonColor3D/POV-RAy3D.htm
