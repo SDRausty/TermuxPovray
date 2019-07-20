@@ -48,3 +48,4 @@ More renderings that use POV-Ray:
 25. https://www.slideshare.net/Rozy65/povray-tutorial
 26. https://www.researchgate.net/publication/322309077_Autonomous_Optical_Navigation_for_LUMIO_Mission
 27. http://wiki.povray.org/content/Reference:Prism
+28. http://www.ignorancia.org/index.php/technical/lightsys/
