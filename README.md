@@ -23,3 +23,4 @@ Created on device in Termux regarding [Package Request: Povray](https://github.c
 More example renderings:
 http://www.beugungsbild.de/huygens/povray/titan_rendered.html
 http://f-lohmueller.de/pov_tut/animate/anim112e.htm
+http://sweiller.free.fr/MoonColor3D/POV-RAy3D.htm
