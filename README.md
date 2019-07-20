@@ -59,3 +59,7 @@ Renderings that use POV-Ray:
 36. https://www.coroflot.com/moon47usaco/POV-Ray-Droid
 37. https://www.ms.uky.edu/~Lee/visual05/povray/povray.html
 38. https://commons.m.wikimedia.org/wiki/File:Moon_rotating_full_VEx5.ogv
+39. https://povray.fandom.com/wiki/Main_Page
+40. https://opensource.com/life/16/2/povray
+41. https://vimeo.com/channels/402842
+42. https://opensource.com/life/16/2/povray
