@@ -30,3 +30,4 @@ See more renderings that use POV-Ray:
 7. https://opensource.com/life/16/2/povray
 8. https://bjj.mmedia.is/povstuff/spacecraft/
 9. http://www.f-lohmueller.de/pov_tut/all_shapes/shapes170e.htm
+10. http://www.f-lohmueller.de/pov_tut/plants/plants_420e.htm
