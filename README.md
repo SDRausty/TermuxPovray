@@ -37,3 +37,14 @@ More renderings that use POV-Ray:
 14. https://doublebrick.ru/forums/viewforum.php?f=10
 15. http://f-lohmueller.de/pov_tut/animate/anim112e.htm
 16. http://news.povray.org/povray.general/thread/%3C496583b5%241%40news.povray.org%3E/
+17. http://sweiller.free.fr/MoonColor3D/POV-RAy3D.htm
+18. http://isometricland.net/povray/povray.php
+19. http://www.midnightkite.com/index.aspx?URL=PlanetRendering
+20. http://www.povray.org/documentation/view/3.7.0/246/
+21. http://www.f-lohmueller.de/pov_tut/tex/tex_000e.htm
+22. https://logosconcarne.com/tag/pov-ray/
+23. http://www.tutorialguide.net/3d_software/povray/
+24. http://news.povray.org/povray.binaries.images/thread/%3C3C085737.4001F9D8%40hotmail.com%3E/
+25. https://www.slideshare.net/Rozy65/povray-tutorial
+26. https://www.researchgate.net/publication/322309077_Autonomous_Optical_Navigation_for_LUMIO_Mission
+27. http://wiki.povray.org/content/Reference:Prism
