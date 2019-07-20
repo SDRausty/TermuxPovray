@@ -35,3 +35,4 @@ More renderings that use POV-Ray:
 12. https://nylander.wordpress.com/tag/pov-ray/page/7/
 13. https://orangeteamlug.it/news/recensioni/7-buoni-motivi-per-usare-mecabrick-al-posto-di-blue-render-per-renderizzare-i-progetti-in-ldd
 14. https://doublebrick.ru/forums/viewforum.php?f=10
+15. http://f-lohmueller.de/pov_tut/animate/anim112e.htm
