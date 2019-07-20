@@ -67,3 +67,5 @@ Renderings that use POV-Ray:
 44. http://www.midnightkite.com/index.aspx?AID=0&URL=PlanetRendering
 45. http://megapov.inetart.net/povrayunofficial_mac/
 46. https://www.dedoimedo.com/computers/povray.html
+47. http://arclab.mit.edu/wp-content/uploads/2018/10/2017_06.pdf
+48. https://www.academia.edu/37313179/A_DEEP_LEARNING_APPROACH_FOR_OPTICAL_AUTONOMOUS_PLANETARY_RELATIVE_TERRAIN_NAVIGATION
