@@ -69,3 +69,12 @@ Renderings that use POV-Ray:
 46. https://www.dedoimedo.com/computers/povray.html
 47. http://arclab.mit.edu/wp-content/uploads/2018/10/2017_06.pdf
 48. https://www.academia.edu/37313179/A_DEEP_LEARNING_APPROACH_FOR_OPTICAL_AUTONOMOUS_PLANETARY_RELATIVE_TERRAIN_NAVIGATION
+49. http://xahlee.info/3d/povray.html
+50. https://pov-ray.uptodown.com/windows
+51. https://www.sciencedirect.com/science/article/pii/S0273117716301284
+52. https://indico.esa.int/event/111/contributions/398/attachments/500/545/slideshow_ICATT_v2.pdf
+53. http://news.povray.org/povray.general/thread/%3C59799a41%241%40news.povray.org%3E/
+54. http://neoprogrammics.com/lunar_phase_images/
+55. http://www.digitalwaterfalls.co.uk/earlyspacecraft.html
+56. http://arclab.mit.edu/wp-content/uploads/2018/10/2017_06.pdf
+57. https://www.researchgate.net/publication/325388852_LUMIO_achieving_autonomous_operations_for_Lunar_exploration_with_a_CubeSat
