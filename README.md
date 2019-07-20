@@ -54,3 +54,5 @@ More renderings that use POV-Ray:
 31. http://www.f-lohmueller.de/pov_tut/animate/pov_anie.htm
 32. https://www.tumblr.com/search/POV-Ray
 33. https://www.chegg.com/homework-help/questions-and-answers/desgin-dark-night-sky-full-moon-pov-ray-q25257117
+34. https://zh.m.wikipedia.org
+35. https://stackoverflow.com/questions/20043209/pov-ray-setting-output-resolution-or-width-heigh-ratio-within-the-script
