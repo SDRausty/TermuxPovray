@@ -78,3 +78,4 @@ Renderings that use POV-Ray:
 55. http://www.digitalwaterfalls.co.uk/earlyspacecraft.html
 56. http://arclab.mit.edu/wp-content/uploads/2018/10/2017_06.pdf
 57. https://www.researchgate.net/publication/325388852_LUMIO_achieving_autonomous_operations_for_Lunar_exploration_with_a_CubeSat
+58. http://arclab.mit.edu/wp-content/uploads/2018/10/2017_06.pdf
