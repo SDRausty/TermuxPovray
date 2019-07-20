@@ -33,3 +33,5 @@ More renderings that use POV-Ray:
 10. http://www.f-lohmueller.de/pov_tut/plants/plants_420e.htm
 11. http://www.neoprogrammics.com/pov-ray_lunar_explorer/index.html
 12. https://nylander.wordpress.com/tag/pov-ray/page/7/
+13. https://orangeteamlug.it/news/recensioni/7-buoni-motivi-per-usare-mecabrick-al-posto-di-blue-render-per-renderizzare-i-progetti-in-ldd
+14. https://doublebrick.ru/forums/viewforum.php?f=10
