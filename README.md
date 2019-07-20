@@ -8,7 +8,7 @@ Do you find [Arch Linux](https://sdrausty.github.io/TermuxArch/) in [Termux PRoo
 
 [![pebbles512](https://sdrausty.github.io/TermuxPovray/docs/files/pebbles/pebbles512.png)](https://sdrausty.github.io/TermuxPovray/docs/files/pebbles/pebbles512.png)
 
-Created on device in Termux regarding [Package Request: Povray](https://github.com/termux/termux-packages/issues/202) and [Povray Termux Package Request](https://github.com/POV-Ray/povray/issues/291).  You can veiw them, and you can make them with this git repository too.
+Created on device in Termux regarding [Package Request: Povray](https://github.com/termux/termux-packages/issues/202) and [Povray Termux Package Request](https://github.com/POV-Ray/povray/issues/291).  You can veiw them in the following resolutions, and you can make them with this git repository too:
 
 [512](512)
 
