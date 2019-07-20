@@ -20,5 +20,5 @@ Created on device in Termux regarding [Package Request: Povray](https://github.c
 
 [8192](8192)
 
-Example renderings:
+More example renderings:
 http://www.beugungsbild.de/huygens/povray/titan_rendered.html
