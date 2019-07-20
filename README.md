@@ -56,3 +56,4 @@ Renderings that use POV-Ray:
 33. https://www.chegg.com/homework-help/questions-and-answers/desgin-dark-night-sky-full-moon-pov-ray-q25257117
 34. https://zh.m.wikipedia.org
 35. https://stackoverflow.com/questions/20043209/pov-ray-setting-output-resolution-or-width-heigh-ratio-within-the-script
+36. https://www.coroflot.com/moon47usaco/POV-Ray-Droid
