@@ -83,4 +83,10 @@ Renderings that use POV-Ray:
 60. https://phong.com/polargrams-a-math-art/
 61. http://phpsciencelabs.us/lunar_menu/
 62. https://simple.wikipedia.org/wiki/Extraterrestrial_skies
-63. http://news.povray.org/povray.general/thread/%3C508913de%241%40news.povray.org%3E/
+63. https://www.researchgate.net/publication/328027107_Deep_Learning_for_Autonomous_Lunar_Landing
+64. http://happierabroad.com/forum/viewtopic.php?t=27215
+65. http://news.povray.org/povray.binaries.images/thread/%3C4b5cf811%40news.povray.org%3E/?mtop=337153&moff=10
+66. https://www.researchgate.net/publication/328027107_Deep_Learning_for_Autonomous_Lunar_Landing
+67. https://geekdenial.com/2019/03/06/showreel_one/
+68. http://arclab.mit.edu/wp-content/uploads/2018/10/2017_06.pdf
+69. https://indico.esa.int/event/111/contributions/398/attachments/500/545/slideshow_ICATT_v2.pdf
