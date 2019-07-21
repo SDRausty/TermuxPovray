@@ -79,3 +79,7 @@ Renderings that use POV-Ray:
 56. http://arclab.mit.edu/wp-content/uploads/2018/10/2017_06.pdf
 57. https://www.researchgate.net/publication/325388852_LUMIO_achieving_autonomous_operations_for_Lunar_exploration_with_a_CubeSat
 58. http://arclab.mit.edu/wp-content/uploads/2018/10/2017_06.pdf
+59. http://www.neoprogrammics.com/pov-ray_lunar_explorer/
+60. https://phong.com/polargrams-a-math-art/
+61. http://phpsciencelabs.us/lunar_menu/
+62. https://simple.wikipedia.org/wiki/Extraterrestrial_skies
