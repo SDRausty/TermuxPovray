@@ -83,3 +83,4 @@ Renderings that use POV-Ray:
 60. https://phong.com/polargrams-a-math-art/
 61. http://phpsciencelabs.us/lunar_menu/
 62. https://simple.wikipedia.org/wiki/Extraterrestrial_skies
+63. http://news.povray.org/povray.general/thread/%3C508913de%241%40news.povray.org%3E/
