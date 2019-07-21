@@ -91,4 +91,4 @@ Renderings that use POV-Ray:
 68. https://indico.esa.int/event/111/contributions/398/attachments/500/545/slideshow_ICATT_v2.pdf
 69. http://www.povray.org/resources/links/3D_Link_Sites/
 
-Take a 3d selfee at Tranquility Bay? Can you?  With [POV-Ray](https://github.com/POV-Ray/povray) you can!
+Take a 3d selfee at Tranquility Bay?  Can you?  With [POV-Ray](https://github.com/POV-Ray/povray) you can.
