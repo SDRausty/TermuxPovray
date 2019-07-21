@@ -62,7 +62,7 @@ Renderings that use POV-Ray:
 39. https://povray.fandom.com/wiki/Main_Page
 40. https://opensource.com/life/16/2/povray
 41. https://vimeo.com/channels/402842
-42. https://opensource.com/life/16/2/povray
+42. http://www.povray.org/resources/links/3D_Link_Sites/
 43. https://www.scribd.com/doc/66818595/POV-Ray-Tutorial
 44. http://www.midnightkite.com/index.aspx?AID=0&URL=PlanetRendering
 45. http://megapov.inetart.net/povrayunofficial_mac/
