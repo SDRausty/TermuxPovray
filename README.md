@@ -90,5 +90,5 @@ Renderings that use POV-Ray:
 67. http://arclab.mit.edu/wp-content/uploads/2018/10/2017_06.pdf
 68. https://indico.esa.int/event/111/contributions/398/attachments/500/545/slideshow_ICATT_v2.pdf
 69. https://www.researchgate.net/publication/328027107_Deep_Learning_for_Autonomous_Lunar_Landing
-
+70. https://www.deviantart.com/pov-ray/gallery/24885586/WIP
 <bold> Take a selfee there? Can you? </bold>
