@@ -62,7 +62,7 @@ Renderings that use POV-Ray:
 39. https://povray.fandom.com/wiki/Main_Page
 40. https://opensource.com/life/16/2/povray
 41. https://vimeo.com/channels/402842
-42. http://www.povray.org/resources/links/3D_Link_Sites/
+42. https://www.researchgate.net/publication/328027107_Deep_Learning_for_Autonomous_Lunar_Landing
 43. https://www.scribd.com/doc/66818595/POV-Ray-Tutorial
 44. http://www.midnightkite.com/index.aspx?AID=0&URL=PlanetRendering
 45. http://megapov.inetart.net/povrayunofficial_mac/
@@ -89,6 +89,6 @@ Renderings that use POV-Ray:
 66. https://geekdenial.com/2019/03/06/showreel_one/
 67. http://arclab.mit.edu/wp-content/uploads/2018/10/2017_06.pdf
 68. https://indico.esa.int/event/111/contributions/398/attachments/500/545/slideshow_ICATT_v2.pdf
-69. https://www.researchgate.net/publication/328027107_Deep_Learning_for_Autonomous_Lunar_Landing
+69. http://www.povray.org/resources/links/3D_Link_Sites/
 
 Take a 3d selfee at Tranquility Bay? Can you?  With [POV-Ray](https://github.com/POV-Ray/povray) you can!
